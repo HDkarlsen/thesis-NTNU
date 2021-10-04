@@ -22,3 +22,5 @@ There are two ways for setting up the [**Overleaf**](http://overleaf.com) projec
 ### Building document locally
 
 The template also provides a simple `Makefile` which allows you to build the document locally. This requires that you have a LaTeX compiler, such as [`texlive`](https://www.tug.org/texlive/), installed locally, which has to provide the commands `pdflatex` and `biber`.
+
+Edit: Cloned on 2021-10-04.
